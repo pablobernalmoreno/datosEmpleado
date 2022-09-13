@@ -1,0 +1,15 @@
+.empleado{
+  display: flex;
+}
+.datos{
+  display: block;
+}
+
+img {
+  width: 250px;
+  height: 200px;
+}
+
+/* p {
+ Acá podes poner estilos para los textos que tengan etiqueta <p>
+} */
